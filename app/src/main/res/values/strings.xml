@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="name">Name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="age">Age</string>
+    <string name="birthstone">Birthstone</string>
+    <string name="chinese_zodiac">Chinese Zodiac</string>
+    <string name="birthday_details">Birthday Details</string>
+    <string name="view_image">view image</string>
+</resources>
